@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1609214377 source:c:\users\dell\desktop\pro_student_ica\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+
+1610239759 source:t:\documents\third semester\ipc\exam\pro_student_ica\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+
+1610550688 source:t:\documents\third semester\ipc\exam\mini_project_ipc_ica\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+
